@@ -3,6 +3,34 @@ title: "Maeve Staab"
 format: html
 editor: visual
 ---
-This text will be aligned right
 
+```{=html}
+<style>
+h1, h3 { text-align: center; }
+</style>
+```
 
+------------------------------------------------------------------------
+
+::: {style="text-align:center"}
+maeve.staab\@gmail.com \| <https://www.linkedin.com/in/maeve-staab/>
+:::
+
+## Education
+
+<p style="text-align:left;">
+
+**Cornell University** [ Ithaca, NY ]{style="float:right;"}
+
+Master of Professional Studies, Natural Resources and the Environment  
+Expected Graduation 2026
+
+<p style="text-align:left;">
+
+**Stonehill College** [ Easton, MA ]{style="float:right;"}
+
+Bachelor of Science, GPA: 3.89, Major: Environmental Science, Minor: Philosophy  
+Graduated May 2023  
+magna cum laude
+
+## Work Experience
